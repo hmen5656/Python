@@ -1,0 +1,1 @@
+In blobgame project i have created bunch of small shapes with pygame and put them into a window after that those small spapes start move randomly .

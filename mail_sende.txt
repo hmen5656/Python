@@ -1,1 +1,0 @@
-I have created a function to send e-mail

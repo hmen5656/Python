@@ -1,0 +1,1 @@
+in this project i have created bunch of soldiers with random lifepoint, attack power, bullet quantity. when program stars 2 soldier attacks each other randomly with their specified attribute
